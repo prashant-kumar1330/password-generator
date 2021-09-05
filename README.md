@@ -1,7 +1,1 @@
-# password-generator
-<img
-src=“C:\Users\PRASHANT KUMAR\Pictures\Screenshots\Screenshot (279)”
-raw=true
-alt=“Subject Pronouns”
-style=“margin-right: 10px;”
-/>
+![alt text](https://github.com/prashant-kumar1330/password-generator/blob/master/Screenshot%20(279).png)
